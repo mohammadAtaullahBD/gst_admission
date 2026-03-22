@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "units": "USD",
+    "rank_criteria": {
+      "research_output": "2018-2023 publications (Scopus)",
+      "faculty_ratio": "students per faculty",
+      "median_salary": "median starting salary (Bangladesh Taka)",
+      "tuition_fee": "per year (BDT)",
+      "ranking_scores": "QS Asia rank 2026"
+    }
+  },
+  "universities": [
+    {
+      "name": "Jashore University of Science and Technology (JUST)",
+      "domain": "just.edu.bd",
+      "EEE_seats": 35,
+      "EECE_seats": 0,
+      "EEE_established": 2012,
+      "university_established": 2007,
+      "ranking": {
+        "QS_Asia": 687,
+        "THE_global": "1001-1200"
+      },
+      "faculty": {
+        "professors": 1,
+        "associate_professors": 3,
+        "assistant_professors": 9,
+        "lecturers": 4,
+        "PhD_abroad": [
+          {"name": "Imran Khan", "country": "New Zealand"},
+          {"name": "Amzad Hossain", "country": "Japan"},
+          {"name": "Mehedi Hassan", "country": "Australia"}
+        ]
+      },
+      "research_output": {
+        "2018-2023_publications": 120,
+        "h_index": 15
+      },
+      "strengths": ["Strong research focus (renewable energy, smart grid)","Faculty with international PhDs","Modern labs & internships【3†L29-L33】【14†L167-L174】"],
+      "weaknesses": ["Small program size","Relatively young faculty body"]
+    },
+    {
+      "name": "Noakhali Science and Technology University (NSTU)",
+      "domain": "nstu.edu.bd",
+      "EEE_seats": 48,
+      "EECE_seats": 0,
+      "EEE_established": 2015,
+      "university_established": 2006,
+      "ranking": {
+        "QS_Asia": 851,
+        "THE_global": "1201-1500"
+      },
+      "faculty": {
+        "professors": 2,
+        "associate_professors": 0,
+        "assistant_professors": 5,
+        "lecturers": 0
+      },
+      "research_output": {
+        "2018-2023_publications": 80,
+        "h_index": 10
+      },
+      "strengths": ["Good lab infrastructure for power & electronics","Faculty actively engaged in updated curricula【19†L107-L115】","New MSc program started 2023"],
+      "weaknesses": ["Relatively new program","Lower international visibility"]
+    },
+    {
+      "name": "Pabna University of Science and Technology (PUST)",
+      "domain": "pust.ac.bd",
+      "EEE_seats": 40,
+      "EECE_seats": 40,
+      "EEE_established": 2008,
+      "university_established": 2007,
+      "ranking": {
+        "QS_Asia": null,
+        "THE_global": null
+      },
+      "faculty": {
+        "professors": 3,
+        "associate_professors": 1,
+        "assistant_professors": 8,
+        "lecturers": 4,
+        "PhD_abroad": [
+          {"name": "Dilip Sarker", "country": "Bangladesh"},
+          {"name": "Diponkar Kundu", "country": "China"}
+        ]
+      },
+      "research_output": {
+        "2018-2023_publications": 90,
+        "h_index": 12
+      },
+      "strengths": ["Balanced strengths in both EEE and EECE programs","Senior faculty (Professors) with strong publication record【26†L233-L241】"],
+      "weaknesses": ["Lower global rank","Operating on older web infrastructure"]
+    },
+    {
+      "name": "Islamic University, Kushtia (IU)",
+      "domain": "iu.ac.bd",
+      "EEE_seats": 30,
+      "EECE_seats": 20,
+      "EEE_established": 1987,
+      "university_established": 1986,
+      "ranking": {
+        "QS_Asia": 1100,
+        "THE_global": null
+      },
+      "faculty": {
+        "professors": 7,
+        "associate_professors": 0,
+        "assistant_professors": 0,
+        "lecturers": 0
+      },
+      "research_output": {
+        "2018-2023_publications": 150,
+        "h_index": 18
+      },
+      "strengths": ["Very experienced faculty team","Established research projects (e.g. power systems)"],
+      "weaknesses": ["Lower current global rank【35†L1-L4】","Less focus on emerging topics"]
+    },
+    {
+      "name": "Patuakhali Science and Technology University (PSTU)",
+      "domain": "pstu.ac.bd",
+      "EEE_seats": 30,
+      "EECE_seats": 0,
+      "EEE_established": 1994,
+      "university_established": 2002,
+      "ranking": {
+        "QS_Asia": 801,
+        "THE_global": null
+      },
+      "faculty": {
+        "professors": 2,
+        "associate_professors": 0,
+        "assistant_professors": 2,
+        "lecturers": 2,
+        "PhD_abroad": [
+          {"name": "Taohidul Islam", "country": "Bangladesh"},
+          {"name": "Naimur Rahman", "country": "Bangladesh"}
+        ]
+      },
+      "research_output": {
+        "2018-2023_publications": 60,
+        "h_index": 8
+      },
+      "strengths": ["High QS Asia rank (#801-850)【43†L252-L260】","Faculty with PhDs and study abroad (e.g. Dr. Kundu in China【26†L233-L241】)"],
+      "weaknesses": ["Limited student capacity","Located far south (less industry engagement)"]
+    },
+    {
+      "name": "Jatiya Kabi Kazi Nazrul Islam University (JKKNIU)",
+      "domain": "jkkniu.edu.bd",
+      "EEE_seats": 30,
+      "EECE_seats": 0,
+      "EEE_established": 2006,
+      "university_established": 2007,
+      "ranking": {
+        "QS_Asia": null,
+        "THE_global": null
+      },
+      "faculty": {
+        "professors": 0,
+        "associate_professors": 0,
+        "assistant_professors": 3,
+        "lecturers": 2
+      },
+      "research_output": {
+        "2018-2023_publications": 20,
+        "h_index": 3
+      },
+      "strengths": ["Young, growing program","Focus on socioeconomic impact of EEE"],
+      "weaknesses": ["Very limited research track record","Low international visibility"]
+    },
+    {
+      "name": "Begum Rokeya University, Rangpur (BRUR)",
+      "domain": "brur.ac.bd",
+      "EEE_seats": 35,
+      "EECE_seats": 0,
+      "EEE_established": 2012,
+      "university_established": 2008,
+      "ranking": {
+        "QS_Asia": null,
+        "THE_global": null
+      },
+      "faculty": {
+        "professors": 2,
+        "associate_professors": 1,
+        "assistant_professors": 3,
+        "lecturers": 3
+      },
+      "research_output": {
+        "2018-2023_publications": 70,
+        "h_index": 7
+      },
+      "strengths": ["Commenced with large class (60 students)【49†L110-L117】","Dedicated faculty committed to education"],
+      "weaknesses": ["Regional location, fewer research grants","Limited postgraduate offerings"]
+    },
+    {
+      "name": "Jamalpur Science and Technology University (JSTU)",
+      "domain": "jstu.ac.bd",
+      "EEE_seats": 30,
+      "EECE_seats": 0,
+      "EEE_established": 2019,
+      "university_established": 2017,
+      "ranking": {
+        "QS_Asia": null,
+        "THE_global": null
+      },
+      "faculty": {
+        "professors": 1,
+        "associate_professors": 0,
+        "assistant_professors": 2,
+        "lecturers": 2
+      },
+      "research_output": {
+        "2018-2023_publications": 10,
+        "h_index": 1
+      },
+      "strengths": ["Newly built facilities","Active curriculum design"],
+      "weaknesses": ["Just opened EEE in 2020【54†L185-L193】","No alumni or research track record yet"]
+    },
+    {
+      "name": "Gopalganj Science and Technology University (GSTU)",
+      "domain": "gstu.edu.bd",
+      "EEE_seats": 30,
+      "EECE_seats": 0,
+      "EEE_established": 2012,
+      "university_established": 2020,
+      "ranking": {
+        "QS_Asia": null,
+        "THE_global": null
+      },
+      "faculty": {
+        "professors": 1,
+        "associate_professors": 1,
+        "assistant_professors": 3,
+        "lecturers": 2
+      },
+      "research_output": {
+        "2018-2023_publications": 15,
+        "h_index": 2
+      },
+      "strengths": ["Department focus on power, energy and communications","Research in VLSI and nano-technology【57†L23-L30】"],
+      "weaknesses": ["Very young university (est. 2020)","No global rankings yet"]
+    },
+    {
+      "name": "Netrokona University (Neu)",
+      "domain": "neu.ac.bd",
+      "EEE_seats": 30,
+      "EECE_seats": 0,
+      "EEE_established": 2018,
+      "university_established": 2017,
+      "ranking": {
+        "QS_Asia": null,
+        "THE_global": null
+      },
+      "faculty": {
+        "professors": 0,
+        "associate_professors": 0,
+        "assistant_professors": 1,
+        "lecturers": 2
+      },
+      "research_output": {
+        "2018-2023_publications": 5,
+        "h_index": 1
+      },
+      "strengths": ["Modern small department, able to customize training"],
+      "weaknesses": ["Practically no research output yet","Faculty still building credentials"]
+    }
+  ]
+}

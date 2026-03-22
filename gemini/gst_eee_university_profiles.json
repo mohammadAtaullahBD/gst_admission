@@ -1,0 +1,106 @@
+{
+  "dataset": "GST Cluster EEE Program Analysis",
+  "target_objective": "Robotics Specialization & DAAD/MEXT Scholarship Prep",
+  "universities": [
+    {
+      "id": "JUST",
+      "name": "Jashore University of Science and Technology",
+      "faculty_strength": "High (Broad research scope, internationally trained faculty)",
+      "key_labs": ["Modern EEE Labs", "Seminar Library"],
+      "rankings": {"QS_Asia": "Listed", "Webometrics": "High"},
+      "scores": {"research": 9.0, "labs": 8.0, "ranking": 8.5, "scholarship": 8.5, "stability": 8.0},
+      "total_score": 8.45,
+      "tier": 1
+    },
+    {
+      "id": "PUST",
+      "name": "Pabna University of Science and Technology",
+      "faculty_strength": "High (IEEE RAS Leadership, CAS China)",
+      "key_labs": ["General EEE/EECE Labs"],
+      "rankings": {"Webometrics": "Moderate"},
+      "scores": {"research": 8.0, "labs": 8.0, "ranking": 7.0, "scholarship": 9.5, "stability": 7.5},
+      "total_score": 8.02,
+      "tier": 1
+    },
+    {
+      "id": "PSTU",
+      "name": "Patuakhali Science and Technology University",
+      "faculty_strength": "High (MS/PhD Programs, IoT/Robotics Expertise)",
+      "key_labs": ["Advanced Electrical and Electronics Lab"],
+      "rankings": {"Webometrics": "Ranked 5th Nationally"},
+      "scores": {"research": 8.0, "labs": 8.0, "ranking": 8.5, "scholarship": 8.0, "stability": 8.0},
+      "total_score": 8.10,
+      "tier": 1
+    },
+    {
+      "id": "NSTU",
+      "name": "Noakhali Science and Technology University",
+      "faculty_strength": "Moderate (High local prestige, less international data)",
+      "key_labs": [],
+      "rankings": {"THE_World": "1200-1500"},
+      "scores": {"research": 8.0, "labs": 8.0, "ranking": 9.0, "scholarship": 7.0, "stability": 7.5},
+      "total_score": 7.92,
+      "tier": 1
+    },
+    {
+      "id": "IU",
+      "name": "Islamic University",
+      "faculty_strength": "Moderate-High (Heritage faculty, Nanostructure focus)",
+      "key_labs": ["Central Laboratory"],
+      "rankings": {"Webometrics": "Top 30 Nationally"},
+      "scores": {"research": 7.5, "labs": 7.5, "ranking": 7.0, "scholarship": 7.0, "stability": 8.0},
+      "total_score": 7.37,
+      "tier": 2
+    },
+    {
+      "id": "BRUR",
+      "name": "Begum Rokeya University",
+      "faculty_strength": "Moderate (Key robotics researcher on leave)",
+      "key_labs": ["General EEE Labs"],
+      "rankings": {"Webometrics": "Moderate"},
+      "scores": {"research": 7.0, "labs": 7.0, "ranking": 6.0, "scholarship": 7.5, "stability": 6.5},
+      "total_score": 6.82,
+      "tier": 2
+    },
+    {
+      "id": "BSFMSTU",
+      "name": "Jamalpur Science and Technology University",
+      "faculty_strength": "Developing (Young faculty)",
+      "key_labs": [],
+      "rankings": {"Webometrics": "Low"},
+      "scores": {"research": 6.0, "labs": 7.0, "ranking": 5.0, "scholarship": 6.0, "stability": 7.0},
+      "total_score": 6.15,
+      "tier": 2
+    },
+    {
+      "id": "JKKNIU",
+      "name": "Jatiya Kabi Kazi Nazrul Islam University",
+      "faculty_strength": "Developing",
+      "key_labs": [],
+      "rankings": {"Webometrics": "Low"},
+      "scores": {"research": 5.0, "labs": 6.0, "ranking": 5.0, "scholarship": 5.0, "stability": 7.0},
+      "total_score": 5.50,
+      "tier": 2
+    },
+    {
+      "id": "BSMRSTU",
+      "name": "Gopalganj Science and Technology University",
+      "faculty_strength": "Critical Deficit (11+ Faculty on Leave)",
+      "key_labs": ["General EEE Labs"],
+      "rankings": {"Webometrics": "Low"},
+      "scores": {"research": 5.0, "labs": 6.0, "ranking": 5.0, "scholarship": 3.0, "stability": 4.0},
+      "total_score": 4.65,
+      "tier": 3
+    },
+    {
+      "id": "NEU",
+      "name": "Netrokona University",
+      "faculty_strength": "Critical Deficit (Only 4 faculty members)",
+      "key_labs": [],
+      "rankings": {"Webometrics": "Unranked/Volatile"},
+      "scores": {"research": 3.0, "labs": 4.0, "ranking": 3.0, "scholarship": 3.0, "stability": 3.0},
+      "total_score": 3.20,
+      "tier": 3
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GST Cluster EEE Program Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f7f6; color: #333; padding: 20px; }
+       .container { max-width: 1200px; margin: auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+        h1 { text-align: center; color: #2c3e50; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: center; }
+        th { background-color: #34495e; color: white; }
+       .tier-1 { background-color: #d4edda; }
+       .tier-2 { background-color: #fff3cd; }
+       .tier-3 { background-color: #f8d7da; }
+        canvas { max-height: 400px; margin-top: 30px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Comparative Analysis: GST Universities (EEE/Robotics)</h1>
+        
+        <canvas id="scoreChart"></canvas>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>University</th>
+                    <th>Research (25%)</th>
+                    <th>Labs (20%)</th>
+                    <th>Ranking (20%)</th>
+                    <th>Scholarship (20%)</th>
+                    <th>Stability (15%)</th>
+                    <th>Total Score</th>
+                    <th>Tier</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="tier-1"><td>JUST</td><td>9.0</td><td>8.0</td><td>8.5</td><td>8.5</td><td>8.0</td><td>8.45</td><td>1</td></tr>
+                <tr class="tier-1"><td>PSTU</td><td>8.0</td><td>8.0</td><td>8.5</td><td>8.0</td><td>8.0</td><td>8.10</td><td>1</td></tr>
+                <tr class="tier-1"><td>PUST</td><td>8.0</td><td>8.0</td><td>7.0</td><td>9.5</td><td>7.5</td><td>8.02</td><td>1</td></tr>
+                <tr class="tier-1"><td>NSTU</td><td>8.0</td><td>8.0</td><td>9.0</td><td>7.0</td><td>7.5</td><td>7.92</td><td>1</td></tr>
+                <tr class="tier-2"><td>IU</td><td>7.5</td><td>7.5</td><td>7.0</td><td>7.0</td><td>8.0</td><td>7.37</td><td>2</td></tr>
+                <tr class="tier-2"><td>BRUR</td><td>7.0</td><td>7.0</td><td>6.0</td><td>7.5</td><td>6.5</td><td>6.82</td><td>2</td></tr>
+                <tr class="tier-2"><td>BSFMSTU</td><td>6.0</td><td>7.0</td><td>5.0</td><td>6.0</td><td>7.0</td><td>6.15</td><td>2</td></tr>
+                <tr class="tier-2"><td>JKKNIU</td><td>5.0</td><td>6.0</td><td>5.0</td><td>5.0</td><td>7.0</td><td>5.50</td><td>2</td></tr>
+                <tr class="tier-3"><td>BSMRSTU</td><td>5.0</td><td>6.0</td><td>5.0</td><td>3.0</td><td>4.0</td><td>4.65</td><td>3</td></tr>
+                <tr class="tier-3"><td>NEU</td><td>3.0</td><td>4.0</td><td>3.0</td><td>3.0</td><td>3.0</td><td>3.20</td><td>3</td></tr>
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        const ctx = document.getElementById('scoreChart').getContext('2d');
+        const scoreChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ['JUST', 'PSTU', 'PUST', 'NSTU', 'IU', 'BRUR', 'BSFMSTU', 'JKKNIU', 'BSMRSTU', 'NEU'],
+                datasets: [{
+                    label: 'Weighted Score',
+                    data: [8.45, 8.10, 8.02, 7.92, 7.37, 6.82, 6.15, 5.50, 4.65, 3.20],
+                    backgroundColor: [
+                        '#2ecc71', '#2ecc71', '#2ecc71', '#2ecc71', 
+                        '#f1c40f', '#f1c40f', '#f1c40f', '#f1c40f', 
+                        '#e74c3c', '#e74c3c'
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: { beginAtZero: true, max: 10 }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

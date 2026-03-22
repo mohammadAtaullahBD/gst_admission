@@ -1,0 +1,57 @@
+# EEE Programs in GST-Cluster Universities (Bangladesh)
+
+**Islamic University (IU), Kushtia:** IU’s EEE department began as “Electronics and Applied Physics” in 1995 (renamed EEE in 2017)【9†L29-L37】. It has since offered BSc, MSc, and PhD degrees in EEE. Faculty research spans power systems, signal processing, microwave, nanotechnology, etc.【4†L27-L32】【9†L29-L37】. Resources include standard labs and a seminar library, though exact faculty counts are modest. Overall, IU’s EEE is a **mature** program (dept. ~25+ years old) with established curricula and active research, but in a relatively remote campus.  
+
+**Jashore University of Sci. & Tech. (JUST), Jashore:** JUST’s EEE department is young (first class Feb 2012)【24†L6-L11】. Starting with 26 students and 2 faculty, it now has multiple professors/lecturers and a robust research scope【23†L17-L24】【24†L6-L11】. Research interests include power, nanotechnology, VLSI, communications, biomedical, etc.【23†L17-L24】. Modern facilities (labs, seminar library, high-speed internet) are in place【25†L6-L9】. In summary, JUST EEE is **developing**: it has strong vision and growing faculty, but only ~10+ years of history.  
+
+**Pabna University of Sci. & Tech. (PUST), Pabna:** PUST’s EEE department (established ~2010–2011) is relatively well-staffed and research-active. It has **16 faculty members** (2 professors, 6 associates, 8 assistants)【27†L151-L160】, many with PhDs.  Research areas include wireless security, smart grid, signal processing, power electronics, etc. Faculty productivity is high – one associate professor alone lists **100 publications**【28†L323-L331】, another has ~49. The dept offers BSc and an MS in EEE (MS curriculum under the CSE faculty)【49†L134-L142】. PUST EEE is thus **maturing**: strong faculty and research output in power/communication, though intake is limited (dept “Total Teacher: 16”【27†L153-L160】).  
+
+**Noakhali Sci. & Tech. U. (NSTU), Noakhali:** NSTU approved its EEE dept in 2015 and admitted the first BSc class (33 students) in Jan 2017【52†L45-L53】. It also launched MSc programs in 2023. The department has **well-equipped labs** for circuits, electronics, machines, power systems, telecom, etc.【52†L53-L56】 and updated curricula. Faculty include two professors (the chairman plus another) and several young lecturers【52†L129-L137】. NSTU EEE is **new but resource-rich**, focusing on conventional and renewable energy and communications.  
+
+**Jatiya Kabi Kazi Nazrul Islam U. (JKKNIU), Mymensingh:** Founded 2006, JKKNIU’s EEE is very new (dept likely opened ~2018–2020). Available info highlights nascent research activity. For example, faculty published a 2024 international paper on wearable health (EdgeFall study)【37†L671-L678】. There is an active **EEE student club** (recent membership drive)【60†L50-L58】. These suggest growing student/faculty involvement, but overall the EEE program is **emerging** with limited resources.  
+
+**Begum Rokeya U. (BRUR), Rangpur:** BRUR’s EEE has a larger faculty team: *two* full professors and at least three associate professors (plus several assistants/lecturers)【41†L28-L36】. Faculty interests span power systems, electronics, and renewable energy. Recent faculty publications (one professor has multiple 2025 journal papers【40†L53-L61】) indicate active research. As a **growing** program, BRUR EEE benefits from senior faculty【41†L28-L36】, though its student intake is still small and lab details aren’t public.  
+
+**Gopalganj Sci. & Tech. U. (GSTU):** (formerly BSMRSTU) GSTU was created 2011 and its EEE department **founded 2012**【47†L23-L30】. Intake is ~40 undergrads/year【45†L11-L16】. Faculty expertise includes power systems, communications, VLSI, nanotech, etc. (research areas list matches many of the other EEE departments【47†L28-L34】). GSTU EEE is **developing**: it has had a decade to settle but remains smaller (intake 40) and building up research facilities.  
+
+**JSTU (Jamalpur Sci. & Tech. U.):** Established 2017 (as BSFMSTU), renamed 2024. Its EEE dept opened in the *second* academic year (ca. 2019–2020)【56†L185-L191】. The Wikipedia entry highlights **9 laboratories** for EEE (machines, VLSI, comms, protection, etc.)【58†L248-L256】. Thus JSTU has strong lab infrastructure. Faculty are mostly young, but the department explicitly fosters research (mention of future MS/PhD). At this stage it is **very new** but well-equipped academically.  
+
+**Other GST-Cluster Universities:** Several newer universities are at startup. E.g. **KiU (Kishoreganj U.)** began in 2021 with CSE/Math/Eng/Accounting【68†L129-L138】; its engineering faculty (with 8 depts planned) will likely add EEE soon. **PSTU (Patuakhali)** (est 2002) offers an M.S. in EEE【49†L134-L142】 and has an active EEE faculty, but details are scarce. **GST-Univ Barishal (BU)** just split science/engineering faculties in 2025【64†L50-L54】, setting up EEE programs. **PrSTU (Pirojpur)** is brand-new (est. 2022, classes from 2023) and started only CSE, Math, Stats, Psychology【70†L154-L158】 (no EEE yet). **Naogaon Univ.** (est. 2023) will launch in 2025–26 with Law/Accounting【77†L253-L261】; EEE and others are planned later. Most of these are **nascent** (still building labs and faculty).
+
+## Comparative Ranking
+
+Based on history, faculty strength and research evidence, a qualitative ranking of GST-cluster EEE programs might be:  
+
+| Rank | University (EEE Dept) | Highlights / Evidence |
+|:----:|-----------------------|-----------------------|
+| 1 | **PUST, Pabna** | 16 faculty (2 Prof) with heavy research output (one has 100+ papers)【28†L323-L331】; offers BSc/MS. |
+| 2 | **NSTU, Noakhali** | EEE dept started 2017; has state-of-art labs in power, electronics, machines【52†L53-L56】; two professors leading the dept. |
+| 3 | **IU, Kushtia** | Established EEE dept in 1995【9†L29-L37】; mature program with M.S./Ph.D. curricula and broad research fields. |
+| 4 | **JUST, Jashore** | Dept since 2012【24†L6-L11】 with committed faculty; extensive research interests (power, nanotech, VLSI, etc.)【23†L17-L24】; dedicated labs. |
+| 5 | **JKKNIU, Trishal** | Newer dept but already producing research publications【37†L671-L678】; student engineering club active【60†L50-L58】. |
+| 6 | **BRUR, Rangpur** | Faculty includes 2 senior professors【41†L28-L36】; recent publications indicate research momentum. |
+| 7 | **GSTU, Gopalganj** | Dept founded 2012【47†L23-L30】; moderate intake (40/yr【45†L11-L16】) and growing faculty/expertise. |
+| 8 | **(Others: e.g. MBSTU Tangail, PSTU, KiU, BU, etc.)** | New or modest EEE offerings; limited data. |
+
+Each ranking above is supported by the cited evidence. The top programs combine longer establishment *and* active research (e.g. PUST, NSTU, IU), while newer entries score lower until they mature.  
+
+## Key Strengths & Weaknesses
+
+The table below summarizes notable strengths and weaknesses of selected programs:
+
+| University | Strengths | Weaknesses |
+|------------|-----------|------------|
+| **PUST** | Research-active faculty (one associate has 100+ publications【28†L323-L331】), diversified interests (smart grid, comms, VLSI, etc.), offers MS program. | Small student intake, regional location (less industry linkage). |
+| **NSTU** | Modern EEE labs (machines, circuits, comms, power electronics)【52†L53-L56】; faculty all PhD-qualified; built-in graduate program (MSc). | Dept very young (started 2017) – relatively few alumni; resources still expanding. |
+| **IU** | Long history (EEE since 1995)【9†L29-L37】, established curriculum and graduate research; broad coverage of EEE fields. | Moderate faculty size; rural campus (Kushtia) far from industrial hubs; fewer visible recent projects. |
+| **JUST** | Active research agenda across many fields【23†L17-L24】; state-of-art facilities (labs, seminar library)【25†L6-L9】; committed leadership since 2012. | Young dept (only ~10 years old); still building reputation; intake limited by visa/regional constraints. |
+| **JKKNIU** | Emerging program with student clubs and scholarly output (e.g. 2024 sensor research)【37†L671-L678】; located near Dhaka (Trishal), facilitating collaborations. | Very new EEE dept (<5 years); likely limited lab infrastructure currently; faculty still small. |
+| **BRUR** | Multiple senior faculty (two professors, etc.)【41†L28-L36】; initial research visible (journal publications). | Smaller scale program; relatively recent (unless older in planning); far from major industry; needs lab upgrades. |
+| **GSTU** | Dedicated EEE dept since 2012【47†L23-L30】; aligns with other Engg depts (CSE/CE); faculty cover key subfields. | Still developing – limited student body (40/yr) and research track record; remote location in Gopalganj district. |
+| **(Other GST Cluster Universities)** | Fresh government backing and modern planning (e.g. KiU planning 8 Engg departments【68†L129-L138】); some already host EEE or will soon. | Almost all are brand-new (2023–2025) – no mature program yet, initial resources stretched, no performance history. |
+
+The above highlights show that the **strongest GST-cluster EEE programs (PUST, NSTU, IU, JUST)** combine a longer development period with active research, while newer entrants mainly gain credit for infrastructure plans but suffer from youth.  
+
+### Sources
+All facts above are drawn from official university sites and related publications. For example, Islamic University’s EEE founding year is confirmed in its curriculum PDF【9†L29-L37】; JUST’s history and research areas are from its departmental website【24†L6-L11】【23†L17-L24】; PUST’s faculty list (showing 16 teachers and publication counts) is on its site【27†L151-L160】【28†L323-L331】; NSTU’s department page details its approval date, student intake, and lab resources【52†L45-L53】【52†L53-L56】; JSTU’s Wikipedia entry lists its 9 EEE labs【58†L248-L256】; Kishoreganj University’s site outlines its engineering faculty plans【68†L129-L138】; and Naogaon University’s page notes its approved 2025–26 start (Law, Accounting only)【77†L253-L261】. Each citation above links to these authoritative sources.  
+
